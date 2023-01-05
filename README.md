@@ -8,13 +8,13 @@
 <a href="https://www.linkedin.com/in/mateeusduarte/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>🧠Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
-<li>📝 I <del>regulary</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
+<li>🎨 I’m passionate about front-end development</li>
+<li>🧐 Currently learning about <strong>Flutter</strong></li>
+<li>📈 I have a degree in Economics</li>
+<li>🇧🇷 I'm brazilian and I love it</li>
+<li>🆕 I love working on companies that are on early stage</li>
 </ul>
+
+<h2>🖥️ Technologies</h2>
