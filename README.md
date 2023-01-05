@@ -31,14 +31,14 @@
   <br>
   <img align="center" alt="jest-tag" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img align="center" alt="cypress-tag" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
-  	
+   <br>
   <br>
   <img align="center" alt="sass-tag" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" alt="story-book-tag" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
   <img align="center" alt="mongo-db-tag" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="docker-tag" src="https://img.shields.io/badge/Docker-0078D4?style=for-the-badge&logo=Docker&logoColor=white">
   <img align="center" alt="heroku-tag" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  <img align="center" alt="apollo-graphql-tag" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white">
+  <img align="center" alt="apollo-graphql-tag" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-            badge&logo=Apollo%20GraphQL&logoColor=white">
   <br>
   <br>
   <img align="center" alt="postman-tag" src="https://img.shields.io/badge/Postman-FA7343?style=for-the-badge&logo=postman&logoColor=white">
