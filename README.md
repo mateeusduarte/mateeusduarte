@@ -47,4 +47,3 @@
 
 [![Mateus Duarte GitHub stats](https://github-readme-stats.vercel.app/api?username=mateeusduarte)](https://github.com/mateeusduarte)
 
-[![Top Langs Mateus Duarte](https://github-readme-stats.vercel.app/api/top-langs/?username=mateeusduarte)](https://github.com/mateeusduarte)
