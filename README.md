@@ -22,29 +22,25 @@
   <img align="center" alt="react-tag" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <br>
   <br>
-  <img align="center" alt="Aline-Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" alt="Aline-SpringSecurity" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
-  <img align="center" alt="Aline-SpringBoot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white">
-  <img align="center" alt="Aline-SpringData" src="https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=DBSpring&logoColor=white">
+  <img align="center" alt="redux-tag" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img align="center" alt="sass-tag" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img align="center" alt="story-book-tag" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
+  <img align="center" alt="next-tag" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <br>
   <br>
-  <img alt="Aline-JUnit" src="https://img.shields.io/badge/JUnit-CC0000?style=for-the-badge&logo=JUnit5&logoColor=white">
-  <img alt="Aline-Postman" src="https://img.shields.io/badge/Postman-FA7343?style=for-the-badge&logo=postman&logoColor=white">
-  <img alt="Aline-Swagger" src="https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black">
-  <img alt="Aline-Docker" src="https://img.shields.io/badge/Docker-0078D4?style=for-the-badge&logo=Docker&logoColor=white">
-  <img alt="Aline-Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  <img alt="javascript-tag" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img alt="typescript-tag" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="mongo-db-tag" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="docker-tag" src="https://img.shields.io/badge/Docker-0078D4?style=for-the-badge&logo=Docker&logoColor=white">
+  <img alt="heroku-tag" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <br>
   <br> 
-  <img align="center" alt="Aline-Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-  <img align="center" alt="Aline-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Aline-MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <br>
   <br>
-  <img align="center" alt="Aline-Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-  <img align="center" alt="Aline-IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+
+ 
   <br>
-  <br>
-  <img align="center" alt="Aline-Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  <img alt="postman-tag" src="https://img.shields.io/badge/Postman-FA7343?style=for-the-badge&logo=postman&logoColor=white">
   <img align="center" alt="Aline-Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
   <img align="center" alt="Aline-Miro" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white">
 </div>  
