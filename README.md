@@ -45,7 +45,6 @@
 <h2>📈 Statistics</h2>
 <br>
 <div align="center">
-  <a href="https://github.com/mateeusduarte">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateeusduarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aline-fagundes&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateeusduarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateeusduarte&layout=compact&langs_count=7&theme=dracula"/>
 </div>
