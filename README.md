@@ -45,17 +45,5 @@
 <h2>📈 Statistics</h2>
 <br>
 <div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=mateeusduarte&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mateeusduarte&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=mateeusduarte&show_icons=true" />
-  </picture>
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateeusduarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateeusduarte&layout=compact&langs_count=7&theme=dracula"/>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateeusduarte)](https://github.com/anuraghazra/github-readme-stats)
 </div>
