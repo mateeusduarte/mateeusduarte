@@ -1,7 +1,7 @@
 <h2>Hello World! 👋🏾 I'm <a href="https://www.linkedin.com/in/mateeusduarte/">Mateus</a></h2>
 
 <img align="right" src="https://media2.giphy.com/media/1afuwyOsr5E8X9CuRV/200w.webp?cid=ecf05e472dpfum2orcvlkpw2xemnz1wt522c4a1uj2m0x5ev&rid=200w.webp&ct=g" alt="Is not a bug is a feature gif" />
-<p> 🧑🏾‍💻 I'm crazy about new technologies, soccer and video games. </p>
+<p> 🧑🏾‍💻 I'm crazy about new technologies, football and video games. </p>
 
 <p> Learn more about me on my LinkedIn 🙂 </p>
 
