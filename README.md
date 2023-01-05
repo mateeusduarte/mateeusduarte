@@ -41,3 +41,11 @@
   <img align="center" alt="Aline-Miro" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white">
   
 </div>  
+
+<h2>📈 Statistics</h2>
+<br>
+<div align="center">
+  <a href="https://github.com/mateeusduarte">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateeusduarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aline-fagundes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
