@@ -37,13 +37,13 @@
   <br>
   <br>
   <img align="center" alt="postman-tag" src="https://img.shields.io/badge/Postman-FA7343?style=for-the-badge&logo=postman&logoColor=white">
-  <img align="center" alt="Aline-Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-  <img align="center" alt="Aline-Miro" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white">
+  <img align="center" alt="trello-tag" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+  <img align="center" alt="miro-tag" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white">
   
 </div>  
 
 <h2>📈 Statistics</h2>
 <br>
 <div align="center">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateeusduarte)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
