@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/mateeusduarte/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin tag"/> </a>
 
 
-<h2>🧠Quick Facts</h2>
+<h2>🧠 Quick Facts</h2>
 <ul>
 <li>🎨 I’m passionate about front-end development</li>
 <li>🧐 Currently learning about <strong>Flutter</strong></li>
