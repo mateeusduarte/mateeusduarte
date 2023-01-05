@@ -3,6 +3,6 @@ I'm Mateus Araujo Duarte.
 
 🧑🏾‍💻 I'm crazy about new technologies, soccer and video games.
 
-About me
+Learn more about me on my LinkedIn 🙂
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
-![download](https://user-images.githubusercontent.com/69705126/210821097-696ffd9b-4387-4663-81c8-7fea14a19479.png)
