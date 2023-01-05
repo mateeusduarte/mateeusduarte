@@ -36,7 +36,7 @@
   <img align="center" alt="apollo-graphql-tag" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white">
   <br>
   <br>
-  <img alt="postman-tag" src="https://img.shields.io/badge/Postman-FA7343?style=for-the-badge&logo=postman&logoColor=white">
+  <img align="center" alt="postman-tag" src="https://img.shields.io/badge/Postman-FA7343?style=for-the-badge&logo=postman&logoColor=white">
   <img align="center" alt="Aline-Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
   <img align="center" alt="Aline-Miro" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white">
   
