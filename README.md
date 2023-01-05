@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/mateeusduarte/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-<img align="right" src="https://media3.giphy.com/media/2KAGlmkPywhZS/giphy.gif?cid=ecf05e47092xan29j52ac3zy1kp6kw79w3xsaycp54rx9l3h&rid=giphy.gif&ct=g" />
+<img align="right" src="https://media2.giphy.com/media/1afuwyOsr5E8X9CuRV/200w.webp?cid=ecf05e472dpfum2orcvlkpw2xemnz1wt522c4a1uj2m0x5ev&rid=200w.webp&ct=g" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
