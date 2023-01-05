@@ -45,4 +45,5 @@
 <h2>📈 Statistics</h2>
 <br>
 
-[![Mateus Duarte GitHub stats](https://github-readme-stats.vercel.app/api?username=mateeusduarte)](https://github.com/anuraghazra/github-readme-stats)
+[![Mateus Duarte GitHub stats](https://github-readme-stats.vercel.app/api?username=mateeusduarte)](https://github.com/mateeusduarte)
+[![Top Langs Mateus Duarte](https://github-readme-stats.vercel.app/api/top-langs/?username=mateeusduarte)](https://github.com/mateeusduarte)
